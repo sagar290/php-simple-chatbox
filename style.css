@@ -1,0 +1,25 @@
+.uname{
+    width: 100px;
+    color:blue;
+    text-align: left;
+}
+.msg{
+    width: 100px;
+    color: green;
+    text-align: left;
+}
+
+#chatlogs{
+    
+}
+
+a{
+    text-decoration: none;
+    padding:5px;
+    background-color: blue;
+    color: white;
+}
+
+table{
+    overflow: hidden;
+}
